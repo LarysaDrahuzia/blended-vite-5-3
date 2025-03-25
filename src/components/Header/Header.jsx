@@ -1,6 +1,5 @@
 import { NavLink } from 'react-router-dom';
 import { FaFlagUsa } from 'react-icons/fa';
-
 import styles from './Header.module.css';
 
 const Header = () => {
